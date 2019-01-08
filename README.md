@@ -92,6 +92,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     </html>
     
     
-    + Text is Grün
-    - text is Red
+    + "Text is Grün"
+    - "Text is Red"
    
