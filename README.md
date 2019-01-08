@@ -43,6 +43,7 @@ okkkkkk
 *dogs
 
 ![Test Image](https://octodex.github.com/images/yaktocat.png)
+![Test Image](https://i1.wp.com/www.traveloskop.de/wp-content/uploads/2018/06/Cascade-de-Yikpa.jpg?resize=1024%2C683)
 
 >Ahmad says: Githu is funny 
 
@@ -61,6 +62,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 ```
+html
+
 <html>
   <head>
   <title>
@@ -72,10 +75,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     </h1>
     </body>
     </html>
-   ```
-   if (isOK) {
+    
+    if (isOK) {
    return result;
    }
+   
+   ```
+   
+   ```diff
    
    Hi evrybody i updated my repo
    
@@ -91,7 +98,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     </body>
     </html>
     
-    
-    +"Text is Grün"
-    -"Text is Red"
+    ``
    
